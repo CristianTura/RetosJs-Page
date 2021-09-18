@@ -1,0 +1,13 @@
+@media (max-width:767px) {
+  input[type="text"], .search{
+    color: rgb(196, 188, 188);
+    background-color: transparent;
+  }
+  input::placeholder{
+    color: transparent;
+  }
+  input[type="text"]:hover, .search:hover, input[type="text"]:focus, .search:focus{
+    color: black;
+    background-color: white;
+  }
+}

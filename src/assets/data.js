@@ -25,110 +25,132 @@ import reto24 from "./img/reto24.png"
 import reto25 from "./img/reto25.png"
 
 
+
 const images = [
   {
     'img': reto1,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto1expandingcards.netlify.app/',
+    'name': "Expanding Cards"
   },
   {
     'img': reto2,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto2progressstep.netlify.app/',
+    'name': "Progress Steps"
   },
   {
     'img': reto3,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
-  },
-  {
-    'img': reto3,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto3rotatingnavigation.netlify.app/',
+    'name': "Rotating Navigation"
   },
   {
     'img': reto4,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto4hiddensearch.netlify.app/',
+    'name': "Hidden Search"
   },
   {
     'img': reto5,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto5blurryloading.netlify.app/',
+    'name': "Blurry Loading"
   },
   {
     'img': reto6,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto6dragndrop.netlify.app/',
+    'name': "Drag n Drop"
   },
   {
     'img': reto7,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto7autotext.netlify.app/',
+    'name': "AutoText"
   },
   {
     'img': reto8,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto8hoverboard.netlify.app/',
+    'name': "Hoverboard"
   },
   {
     'img': reto9,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto9scrollanimation.netlify.app/',
+    'name': "Scroll Animation"
   },
   {
     'img': reto10,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto10forminputwave.netlify.app/',
+    'name': "Form input wave"
   },
   {
     'img': reto11,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto11dadjokes.netlify.app/',
+    'name': "Dad Jokes"
   },
   {
     'img': reto12,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto12soundboard.netlify.app/',
+    'name': "Sound Board"
   },
   {
     'img': reto13,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto13liveuserfilter.netlify.app/',
+    'name': "Live User Filter"
   },
   {
     'img': reto14,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto14buttonrippleeffect.netlify.app/',
+    'name': "Button Ripple Effect"
   },
   {
     'img': reto15,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto15backgroundslider.netlify.app/',
+    'name': "Background Slider"
   },
   {
     'img': reto16,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto16kineticloader.netlify.app/',
+    'name': "Kinetic loader"
   },
   {
     'img': reto17,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto17netflixnavigation.netlify.app/',
+    'name': "Netflix Navigation"
   },
   {
     'img': reto18,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto18testimonialbox.netlify.app/',
+    'name': "Testimonial Box Switcher"
   },
   {
     'img': reto19,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto19pokedex.netlify.app/',
+    'name': "Pokedex"
   },
   {
     'img': reto20,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto20dobleclickheart.netlify.app/',
+    'name': "Doble click Heart"
   },
   {
     'img': reto21,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto21eventkeycodes.netlify.app/',
+    'name': "Event Keycodes"
   },
   {
     'img': reto22,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto22mobilenavigation.netlify.app/',
+    'name': "Mobile Nav Navigation"
   },
   {
     'img': reto23,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto23drinkwater.netlify.app/',
+    'name': "Drink Water"
   },
   {
     'img': reto24,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto24feedbackuidesing.netlify.app/',
+    'name': "Feedback UI Desing"
   },
   {
     'img': reto25,
-    'url': 'https://www.youtube.com/c/HolaMundoDev'
+    'url': 'https://reto25githubprofile.netlify.app/',
+    'name': "GitHub Profile"
   }
 ]
 

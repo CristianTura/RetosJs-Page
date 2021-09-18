@@ -1,16 +1,17 @@
 import React, {  useEffect, useState } from 'react'
 import images from '../../assets/data'
+import logo from '../../assets/img/logoRetosJs.png'
 
 const Swipers = () => {
   
-  let count = 0
-  let src = images[count].img
+  let src = images[0].img
   
   const [ srcImg, sentSrcImg] = useState(src)
-
+  
   useEffect(() => {
+    let count = 0
     setInterval(function(){
-      console.log(count)
+      // console.log(count)
       if (count >= images.length-1 ){
         count = 0
       } 
@@ -22,8 +23,9 @@ const Swipers = () => {
   
 
   return (
-    <div className="swiper-container">
-      <img  src={srcImg} alt='reto' />
+    <div className="relative swiper-container  top-0 z-10 h-full m-auto">
+      <img src={logo} alt="Logo" className="z-10 w-8 m-auto mt-4 absolute right-8  top-3"/>
+      <img  src={srcImg} alt='reto' className="h-full " />
     </div>
   )
 }

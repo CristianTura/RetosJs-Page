@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=IBM+Plex+Serif:wght@400;500;600;700&display=swap');
+h2{
+  color: #F91217;
+  font-family: 'Architects Daughter', cursive;
+  text-shadow: 1px 1px 20px #F91217 ;
+}
+button:hover{
+  scale: 0.9;
+}
+.btnPage{
+  font-size: 0.65rem;
+}
+button:focus{
+  cursor: pointer;
+}
